@@ -33,5 +33,3 @@ window = Generate_otp()
 window.Labels()
 window.Buttons()
 window.mainloop()
-'''
-
